@@ -1,1 +1,1 @@
-alert('Welcome to my chat');
+alert('We we welcome to my chat');
